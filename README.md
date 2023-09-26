@@ -15,7 +15,9 @@ Este projeto tem como finalidade teste de conhecimento para vaga mobile.
 
 #### 1. Clonar projeto
 
+```bash
 git clone https://github.com/meudev/test-datafarm.git
+```
 
 #### 2. Instalar dependências do projeto.
 
