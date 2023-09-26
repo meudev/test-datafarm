@@ -22,6 +22,7 @@ git clone https://github.com/meudev/test-datafarm.git
 ```bash
 # using npm
 npm install 
+
 # OR using yarn
 yarn install
 ``` 
@@ -31,6 +32,7 @@ yarn install
 ```bash
 # using npm
 npm start 
+
 # OR using Yarn
 yarn start
 ``` 
