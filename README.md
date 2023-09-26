@@ -8,7 +8,7 @@ Este projeto tem como finalidade teste de conhecimento para vaga mobile.
 * React Navigation (stack e tabs)
 * Axios
 
-## Banco de Dados
+## Banco de Dados - Offline
 * Realm
 
 ## Configurando ambiente
