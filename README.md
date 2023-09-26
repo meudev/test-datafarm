@@ -15,24 +15,24 @@ Este projeto tem como finalidade teste de conhecimento para vaga mobile.
 
 #### 1. Clonar projeto
 
-      git clone https://github.com/meudev/test-datafarm.git
+git clone https://github.com/meudev/test-datafarm.git
 
 #### 2. Instalar dependências do projeto.
 
 ```bash
-# using yarn
-      yarn install 
-#### ou
-      npm install
+# using npm
+npm install 
+# OR using yarn
+yarn install
 ``` 
 
 #### 3. Rodar projeto
 
 ```bash
-# using yarn
-      yarn start 
-#### ou
-      npm start
+# using npm
+npm start 
+# OR using Yarn
+yarn start
 ``` 
 
 #### 3. Executando no emulador
